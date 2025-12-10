@@ -1,1 +1,1 @@
-//add new feature for git and github repo class.
+//add new feature for git and github2 repo class.
